@@ -1,0 +1,2 @@
+#macro MAX_COLOURS 4;
+#macro MAX_PALETTES 4;

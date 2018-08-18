@@ -96,6 +96,25 @@
             }
         },
         {
+            "Key": "45a911c8-fa16-4f13-b93f-3d52f9eea29e",
+            "Value": {
+                "id": "e354f0a6-b6fe-4a3c-acc2-36eca1d31de7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_demo\/obj_demo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5848b630-befc-4e3d-9ef3-be13066cc9ed",
             "Value": {
                 "id": "2772bf4e-ba03-45c7-9dfc-e8087a0a1d72",
@@ -248,6 +267,25 @@
             }
         },
         {
+            "Key": "a4eb3f27-a6e2-4555-a31b-9de3bd243fbf",
+            "Value": {
+                "id": "18926222-21d9-452b-a88f-de1ecbb78d9a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "shaders\/shd_superjibby2_mep\/shd_superjibby2_mep.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "f01c59a7-6c6a-4b15-b9be-7c51b13a7f73",
@@ -302,6 +340,25 @@
                 ],
                 "resourcePath": "views\/b387b8af-a48a-4b15-936e-25c1dd013f52.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b4486c7d-88af-4ff3-ae6b-4b294e0e5fe7",
+            "Value": {
+                "id": "b4d4cb07-8422-4413-a6ed-e74458f47ea4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_palette\/spr_palette.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -395,8 +452,27 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "shaders\/shd_superjibby2\/shd_superjibby2.yy",
+                "resourcePath": "shaders\/shd_superjibby2_iep\/shd_superjibby2_iep.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "cad55786-ac83-4bd0-a95e-8f19fd595bae",
+            "Value": {
+                "id": "d95890fe-4dff-4fa5-9199-23ed04391702",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_test_screen\/spr_test_screen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
