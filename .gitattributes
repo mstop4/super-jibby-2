@@ -1,0 +1,7 @@
+
+###############################################################################
+# Set default behavior to automatically normalize line endings.
+###############################################################################
+* text=auto
+*.yy linguist-language=Game Maker Language
+*.nsi linguist-language=Game Maker Language
