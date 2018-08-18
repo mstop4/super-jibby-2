@@ -1,5 +1,5 @@
 #macro MAX_COLOURS 4
-#macro MAX_PALETTES 4
+#macro MAX_PALETTES 32
 
 current_palette = 1;
 
