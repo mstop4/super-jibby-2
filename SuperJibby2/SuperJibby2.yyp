@@ -381,6 +381,25 @@
             }
         },
         {
+            "Key": "c90ac58f-f684-41a9-a0b4-a2306f690555",
+            "Value": {
+                "id": "9db6b1cf-041e-4a10-80f7-07aaae4a325c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "shaders\/shd_superjibby2\/shd_superjibby2.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "b7a63261-7b7b-4ee7-9042-43c316df3d68",
