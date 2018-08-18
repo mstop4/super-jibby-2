@@ -110,7 +110,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_demo\/obj_demo.yy",
+                "resourcePath": "objects\/obj_demo_iep\/obj_demo_iep.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -148,7 +148,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/room_demo_iep\/room_demo_iep.yy",
                 "resourceType": "GMRoom"
             }
         },
