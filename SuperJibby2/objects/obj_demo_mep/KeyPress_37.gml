@@ -1,0 +1,1 @@
+current_palette = (current_palette-1 + MAX_COLOURS) mod MAX_COLOURS;
