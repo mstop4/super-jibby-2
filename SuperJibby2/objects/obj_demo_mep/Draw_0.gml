@@ -5,6 +5,6 @@ shader_set(shd_superjibby2_mep);
 	shader_set_uniform_f(u_v_scale, 256 / MAX_PALETTES);
 	shader_set_uniform_f(u_palette_index, current_palette);
 
-	draw_sprite(spr_test_screen,0,0,0);
+	draw_sprite(spr_mep_example,0,0,0);
 
 shader_reset();

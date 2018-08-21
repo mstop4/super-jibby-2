@@ -1,7 +1,8 @@
 #macro MAX_COLOURS 4
 #macro MAX_PALETTES 32
 
-current_palette = 1;
+current_palette = 0;
+is_cycling = false;
 
 u_palette_sampler = shader_get_sampler_index(shd_superjibby2_mep, "palette_sampler");
 u_u_scale = shader_get_uniform(shd_superjibby2_mep, "u_scale");

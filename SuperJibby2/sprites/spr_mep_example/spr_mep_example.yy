@@ -2,7 +2,7 @@
     "id": "cad55786-ac83-4bd0-a95e-8f19fd595bae",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_test_screen",
+    "name": "spr_mep_example",
     "For3D": false,
     "HTile": false,
     "VTile": false,
