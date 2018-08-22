@@ -22,4 +22,4 @@ Palette indices are encoded in the red channel while colour indices within a pal
     <img src="https://github.com/mstop4/super-jibby-2/blob/master/doc/mep%20example.gif" width=50%>
 </p>
 
-Like with the IEP shader, colour indices within a palette are encoded in the green channel, but a single palette index is passed to the shader via a uniform. This shader is useful for images that have a single, swappable palette.
+Like with the IEP shader, colour indices within a palette are encoded in the green channel, but only a single palette index is passed to the shader via a uniform. This shader is useful for images that have a single, swappable palette.
