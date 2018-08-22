@@ -2,6 +2,8 @@
 
 A set of shaders designed for GameMaker Studio 2, for palette swapping and drawing indexed-coloured sprites and images.
 
+**Stable/Latest:** *2.0.0*
+
 ## About
 
 Super Jibby is comprised of two shaders:
@@ -17,5 +19,3 @@ Super Jibby is comprised of two shaders:
 <p align="center">
     <img src="https://github.com/mstop4/SuperJibby/blob/master/images/super%20jibby.gif" width=50%>
 </p>
-
-**Stable/Latest:** *2.0.0*
