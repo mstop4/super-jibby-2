@@ -1,6 +1,6 @@
 # Super Jibby 2
 
-A set of shaders designed for *GameMaker Studio 2*, for palette swapping and drawing indexed-coloured sprites and images.
+A set of shaders designed for *GameMaker Studio 2*, for palette swapping and drawing index-coloured sprites and images.
 
 **Stable/Latest:** *2.0.0*
 
