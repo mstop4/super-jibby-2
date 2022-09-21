@@ -2,7 +2,7 @@
 
 A set of shaders designed for *GameMaker Studio 2*, for palette swapping and drawing index-coloured sprites and images.
 
-**Stable/Latest:** *2.0.0*
+**Stable/Latest:** *2.0.1*
 
 ## About
 
